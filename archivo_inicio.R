@@ -3,3 +3,6 @@
 
 ##inicio
 1+10
+
+#multiplicacion
+5*15
