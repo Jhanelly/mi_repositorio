@@ -4,5 +4,10 @@
 ##inicio
 1+10
 
+#multiplicacion
+5*15
+
+
 #division
 5/2
+
